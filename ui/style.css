@@ -1,0 +1,8 @@
+ul {
+	list-style-type: none;
+}
+
+#monsterviewport {
+	border-style:solid;
+	height:50%;
+}
